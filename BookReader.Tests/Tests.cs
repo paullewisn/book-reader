@@ -21,7 +21,7 @@ namespace BookReader.Tests
         [TestCaseSource(nameof(TestCases))]
         public void CountAllWords(string input, int knownCount)
         {
-            Assert.That(_reader.CountWords(input, string.Empty), Is.EqualTo(knownCount + 1));
+            Assert.That(_reader.CountWords(input, string.Empty), Is.EqualTo(knownCount));
         }
 
         public object[] TestCases =
