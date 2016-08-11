@@ -1,0 +1,9 @@
+C:\DEV\katas\book-reader\BookReader.Tests\bin\Debug\BookReader.Tests.dll
+C:\DEV\katas\book-reader\BookReader.Tests\bin\Debug\BookReader.Tests.pdb
+C:\DEV\katas\book-reader\BookReader.Tests\bin\Debug\BookReader.dll
+C:\DEV\katas\book-reader\BookReader.Tests\bin\Debug\nunit.framework.dll
+C:\DEV\katas\book-reader\BookReader.Tests\bin\Debug\BookReader.pdb
+C:\DEV\katas\book-reader\BookReader.Tests\bin\Debug\nunit.framework.xml
+C:\DEV\katas\book-reader\BookReader.Tests\obj\Debug\BookReader.Tests.csprojResolveAssemblyReference.cache
+C:\DEV\katas\book-reader\BookReader.Tests\obj\Debug\BookReader.Tests.dll
+C:\DEV\katas\book-reader\BookReader.Tests\obj\Debug\BookReader.Tests.pdb

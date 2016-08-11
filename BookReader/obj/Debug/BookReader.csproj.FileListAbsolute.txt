@@ -1,0 +1,5 @@
+C:\DEV\katas\book-reader\BookReader\bin\Debug\BookReader.dll
+C:\DEV\katas\book-reader\BookReader\bin\Debug\BookReader.pdb
+C:\DEV\katas\book-reader\BookReader\obj\Debug\BookReader.csprojResolveAssemblyReference.cache
+C:\DEV\katas\book-reader\BookReader\obj\Debug\BookReader.dll
+C:\DEV\katas\book-reader\BookReader\obj\Debug\BookReader.pdb
